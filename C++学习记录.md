@@ -39,9 +39,7 @@ return 0;
 
 
 #### 运行程序
-https://github.com/Capjayzzz/C-/blob/master/C%2B%2B%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95.assets/image-20210831193820894.png
-![image-20200902160505289]
-(C:\Users\Capjay\AppData\Roaming\Typora\typora-user-images\image-20200902160505289.png)
+
 
 ```c++
 
